@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aplotlib/Alex
 - 👀 I’m interested in cannabis, data, BJJ, and code (not in this order).
-- 🌱 I’m currently learning data analytics, BJJ, and code (not in this order).
+- 🌱 I’m currently learning data analytics, BJJ, and coding languages like Python and SQL (not in this order).
 - 💞️ I’m looking to collaborate on data analysis projects involving cannabis, medicine/healthcare, or BJJ and MMA
 - 📫 How to reach me: apopoff1@proton.me
